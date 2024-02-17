@@ -7,7 +7,7 @@
 	    "name": "BitcoinTaps LNbits extension",
 	    "version": "830907",
 	    "short_description": "Lightning enabled Beertap",
-	    "icon": "https://github.com/BitcoinTaps/partytap/blob/b8482a997cab48a918288a0f920f1868d204545a/static/image/bitcointaps256.png",
+	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps256.png",
 	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/830907.zip",
 	    "hash":"005827c27e8b848dc79a5430938a1c62df2a6f6ae460e48486ad9623ca1b30a1"
 	}
