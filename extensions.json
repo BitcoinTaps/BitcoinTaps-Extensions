@@ -10,17 +10,6 @@
 	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
 	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/831120.zip",
 	    "hash":"6c8c8bae6eaa8394d28d4d14819b7dc4aca3c3d2953327a3c017368986203bf8"
-	},
-        {
-            "id": "withdraw",
-            "repo": "https://github.com/pieterjm/withdraw",
-            "name": "LNURLw",
-            "version": "0.1.5-unlimited",
-            "min_lnbits_version": "0.11.0",
-            "short_description": "Make LNURL withdraw links",
-            "icon": "https://github.com/pieterjm/withdraw/raw/main/static/image/lnurl-withdraw.png",
-            "archive": "https://github.com/pieterjm/withdraw/archive/refs/tags/0.1.5-1000k.zip",
-            "hash": "79985e2480a36c29e724bfc03f78acd32f9bb537d73445eab1aa7e73221be8d5"
-        }    
+	} 
     ]
 }
