@@ -5,11 +5,11 @@
 	    "id": "partytap",
 	    "repo": "https://github.com/BitcoinTaps/partytap",
 	    "name": "BitcoinTaps LNbits extension",
-	    "version": "834087",
+	    "version": "838279",
 	    "short_description": "Lightning enabled Beertap",
 	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
-	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/834087.zip",
-	    "hash":"f3c3c5b7785067fddec9bfebac8081b75e6972786426968e4d3af0a823e7b186"
+	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/838279.zip",
+	    "hash":"c95f8918cd69e4f5c0b0c7f2ffec5a0c4ebb219c1a03523f41b0de2c97c6e9b3"
 	} 
     ]
 }
