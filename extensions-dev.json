@@ -21,7 +21,7 @@
 	    "short_description": "Lightning enabled Beertap",
 	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
 	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/850389rc3.zip",
-	    "hash":"46968f84459f455ccb54eb148e366c87c618a3dd19a49bb8f69046c328222369"
+	    "hash":"e489ce374b71e83b6ef18f42d81f2b5abb35afb5e7564e05365826eb0adc6c2d"
 	}
     ]
 }
