@@ -33,17 +33,6 @@
 	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
 	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/865875.zip",
 	    "hash":"03c0d9283031213c86b6c93750888d843aa0895c9f1df8b8eb431659de566259"
-	},
-	{
-	    "id": "partytap",
-	    "repo": "https://github.com/BitcoinTaps/partytap",
-	    "name": "BitcoinTaps LNbits extension",
-	    "version": "900386",
-	    "min_lnbits_version":"0.12.11",
-	    "short_description": "Lightning enabled Beertap",
-	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
-	    "archive": "https://github.com/BitcoinTaps/partytap/archive/refs/tags/900386.zip",
-	    "hash":"12128601a2980968157e969d22e074cdf5a567988db72fe329eb9783e08be6c9"
 	}
     ]
 }
