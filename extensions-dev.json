@@ -99,6 +99,21 @@
 	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
 	    "archive": "https://github.com/pieterjm/partytap_extension/archive/refs/tags/915383.zip",
 	    "hash":"fcdb716afc10952eb526f7da32b4cd30c257c080c2357c5a925d91507806fa2a"
+	},		
+	{
+	    "id": "partytap",
+	    "repo": "https://github.com/pieterjm/partytap_extension",
+	    "name": "BitcoinTaps LNbits extension",
+	    "version": "917676",
+	    "min_lnbits_version":"1.0.0",
+	    "short_description": "Enlighting your drink with a lightning payment enabled tap",
+	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
+	    "archive": "https://github.com/pieterjm/partytap_extension/archive/refs/tags/917676.zip",
+	    "hash":"f633116906caae9dd95fd30927c1579acd9797a848947f39c63365400f6881bc"
 	}
+
+
+
+		
     ]
 }
